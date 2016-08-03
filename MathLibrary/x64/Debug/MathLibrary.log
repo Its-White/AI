@@ -1,0 +1,14 @@
+﻿  MathsLibrary.cpp
+e:\mathlibrary\mathlibrary\mathslibrary.cpp(26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\mathlibrary\mathlibrary\mathslibrary.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Matrix4.cpp
+e:\mathlibrary\mathlibrary\matrix4.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\mathlibrary\mathlibrary\matrix4.cpp(82): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\mathlibrary\mathlibrary\matrix4.cpp(92): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\mathlibrary\mathlibrary\matrix4.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\mathlibrary\mathlibrary\matrix4.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\mathlibrary\mathlibrary\matrix4.cpp(104): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  MathLibrary.vcxproj -> E:\MathLibrary\x64\Debug\MathLibrary.lib
